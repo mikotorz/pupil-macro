@@ -2,7 +2,7 @@
 
 Excel macros used to process data from the pupil measurement experiment.
 
-## NOT READY FOR UPLOADING YET.
+## NOT READY FOR PUBLISHING YET.
 
 ## Introduction
 
