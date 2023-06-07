@@ -5,6 +5,7 @@ Excel macros used to process data from the pupil measurement experiment.
 ## Instroduction
 
 The explanation for each function in the macro codes included in the mothersheets.
+
 You can edit the relevant parts according to your needs.
 
 ## Requirements
@@ -65,7 +66,7 @@ Thank you for your contributions to making this project better!
 
 ## Contact
 
-Secect for now.
+Secret for now.
 
 ## Acknowledgements
 
